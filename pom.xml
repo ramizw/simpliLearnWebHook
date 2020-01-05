@@ -93,7 +93,6 @@
 					<target>${jdk.version}</target>
 				</configuration>
 			</plugin>
-
 			<!-- For Tomcat -->
 			<plugin>
 				<groupId>org.apache.tomcat.maven</groupId>
